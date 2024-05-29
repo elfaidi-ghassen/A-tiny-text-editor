@@ -6,3 +6,4 @@ This is a small homework project in SPD Course on EdX.
 ![screenshot](Design/excalidraw.plan.png)
 
 
+![video](Design/out.mp4)
