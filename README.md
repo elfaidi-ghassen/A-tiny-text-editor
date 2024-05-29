@@ -6,4 +6,6 @@ This is a small homework project in SPD Course on EdX.
 ![screenshot](Design/excalidraw.plan.png)
 
 
-![video](Design/out.mp4)
+
+https://github.com/elfaidi-ghassen/A-tiny-text-editor/assets/93406112/ff62c318-1627-48d1-8b37-becd5ef43fd4
+
